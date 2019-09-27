@@ -1,3 +1,15 @@
 # Description of your program (part 7)
 
+A word is defined as one or more characters in a row that are followed by a space. 
+
+Start the word count at zero. 
+
+Start from the top left corner of the page. Find the first line of words. Scan the first line, if you come across a space that is immediately preceded by a character, increment the word count by one.
+
+Repeat for all remaining lines. 
+
 # Reflection on writing your program (part 8)
+
+It was not satisfying to write it out in plain english for a person to read because I know that a person can interpret the directions in a way that I didn’t intend, while a computer will always do exactly what I say.
+
+I’m really excited for this course, I like programming and I’m happy to be able to combine it with some human-centered design thinking.
